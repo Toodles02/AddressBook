@@ -25,4 +25,25 @@ This project serves as a hands-on demonstration of:
 - Implementing custom data structures (binary search tree) in C++.
 - Working with pointers, dynamic memory allocation, and object lifetime management.
 - Designing a modular program with classes and namespaces.
-- Building an interactiv
+- Building an interactive console UI for user input and output.
+- Handling string manipulation and case-insensitive comparison.
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+- C++ compiler with C++11 (or later) support.
+- CMake (optional, if using a CMake build system).
+
+### Build Instructions
+
+```bash
+git clone https://github.com/yourusername/AddressBook.git
+cd AddressBook
+mkdir build
+cd build
+cmake ..
+make
+./AddressBook
